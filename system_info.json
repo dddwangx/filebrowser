@@ -1,0 +1,56 @@
+{
+  "timestamp": "2026-05-03T09:34:38.128915",
+  "device": {
+    "manufacturer": null,
+    "model": null,
+    "brand": null,
+    "device": null,
+    "board": null,
+    "name": null
+  },
+  "hardware": {
+    "cpuinfo": "processor\t: 0\nmodel\t\t: 62\nmodel name\t: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz\nprocessor\t: 1\nmodel\t\t: 62\nmodel name\t: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz",
+    "processor_count": "2",
+    "meminfo": "MemTotal:        2558980 kB\nMemFree:          401952 kB\nMemAvailable:    1246032 kB\nBuffers:           86556 kB\nCached:           837372 kB",
+    "architecture": "x86_64"
+  },
+  "system": {
+    "android_version": null,
+    "sdk_version": null,
+    "build_id": null,
+    "build_display_id": null,
+    "build_fingerprint": null,
+    "security_patch": null,
+    "incremental": null,
+    "kernel_version": "4.19.0-6-amd64",
+    "kernel_full": "Linux racknerd-16ec312 4.19.0-6-amd64 #1 SMP Debian 4.19.67-2+deb10u1 (2019-09-20) x86_64 GNU/Linux"
+  },
+  "baseband": {
+    "version": null,
+    "ril_impl": null,
+    "type": null,
+    "boot_baseband": null,
+    "rild_libpath": null,
+    "all_properties": {}
+  },
+  "network": {
+    "sim_state": null,
+    "network_type": null,
+    "operator_alpha": null,
+    "operator_numeric": null,
+    "operator_country": null,
+    "is_roaming": null,
+    "phone_type": null,
+    "default_network": null,
+    "active_modems": null,
+    "multisim_config": null,
+    "airplane_mode": null,
+    "iwlan_mode": null,
+    "all_properties": {}
+  },
+  "services": {
+    "ril_services": {},
+    "all_services": {}
+  },
+  "soc": {}
+}

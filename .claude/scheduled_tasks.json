@@ -1,0 +1,12 @@
+{
+  "tasks": [
+    {
+      "id": "c9ee73c8",
+      "cron": "*/5 * * * *",
+      "prompt": "同步 ~/.claude/session-data/* 到 Filebrowser 用户家目录。执行命令：\n```bash\nSOURCE_DIR=\"$HOME/.claude/session-data\"\nTARGET_BASE=\"/root/vps/game/filebrowser-nginx1/data/users\"\nUSERS=(sunny_panda_542 happy_deer_900 kind_lion_572 kind_wolf_489 calm_dolphin_194 clever_tiger_915 sunny_panda_236 cool_dolphin_175 clever_deer_889 clever_dolphin_194)\n\nif [ -d \"$SOURCE_DIR\" ] && [ \"$(ls -A \"$SOURCE_DIR\" 2>/dev/null)\" ]; then\n  for user in \"${USERS[@]}\"; do\n    if [ -d \"$TARGET_BASE/$user\" ]; then\n      rsync -av --delete \"$SOURCE_DIR/\" \"$TARGET_BASE/$user/session-data/\" 2>/dev/null\n    fi\n  done\nfi\n```",
+      "createdAt": 1777809747283,
+      "lastFiredAt": 1777815037215,
+      "recurring": true
+    }
+  ]
+}

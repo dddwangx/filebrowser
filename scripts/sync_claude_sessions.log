@@ -1,0 +1,74 @@
+[2026-05-03 09:12:14] ========== 开始同步 Claude Session-Env ==========
+[2026-05-03 09:12:14] 创建目标目录: /root/vps/game/filebrowser/data/claude-sessions
+[2026-05-03 09:12:14] 源目录: /root/.claude/session-env
+[2026-05-03 09:12:14] 会话数量: 44
+[2026-05-03 09:12:14] 源目录大小: 180K
+[2026-05-03 09:12:14] 开始 rsync 同步...
+sending incremental file list
+./
+0842e806-2afe-4183-bc5d-23f4f7a3840a/
+107d3d17-23c4-45ff-b5b5-4927d060659f/
+115baff6-de3a-4149-b43e-add7f28e0a29/
+121095cf-2525-4f11-a7c4-33b81515feb6/
+14874c7c-ccd1-4389-862c-44758c8efb88/
+14e74397-ce77-491f-920d-9ad8968e8ae4/
+1c701847-b9d2-47b2-b731-c13e140f45ce/
+1fa5d082-70f0-439a-9aad-a091c8216691/
+246290c4-d327-4cd9-887f-970c13645993/
+28144030-d6e9-487e-b402-f2778b35b5b1/
+30e87224-dccf-4b4f-a345-7ab80d108c9a/
+32849dc0-8d09-4883-a127-53fc8374ce00/
+33855daa-7c73-4486-bfa3-375a748b116f/
+4294a62b-eab0-47d7-bd22-389181e0c67a/
+43aa02da-5947-46d4-b7f2-93fe16ab6130/
+5f9b33bf-c9b7-4daf-bc89-dd716afcc051/
+6d01db92-b8c9-4175-bcea-3aba0a6af7a7/
+7107a508-3948-42f5-8cba-79877c9250f4/
+7add4545-1214-48e2-915b-306d2d5b1379/
+7cf2993a-3daa-4ee7-8d31-d887b46ce518/
+83d87c48-3b94-454f-8bc5-7f5273a22b3e/
+91bfb5e7-ad08-4ec5-a855-667fccb4848e/
+a0181cd9-e326-45fe-abc6-d6acea208c45/
+aa4b08de-13b8-4fff-b6cb-c9f7bc657c67/
+aac51138-5014-4ec7-95b7-b5728cae9d46/
+aae9c293-7f8a-4be8-9993-0f7ebda19aae/
+b428f19e-f29e-4b01-afb2-45c690b1dfc6/
+b5a4eb44-d168-4f45-bdbe-258759e4ed01/
+b78af9a6-40d8-48c3-9640-6c701595000e/
+beee3c69-44e2-42be-8489-860246d8b76d/
+bf0e279a-d6b2-4b95-a0a3-92695fd6dc14/
+c3ec774d-9fff-49d3-b79f-4eb974de7d12/
+c82c31bb-c41a-4277-91a3-9e14e30d3470/
+ca21c257-292c-4f19-8484-3564fa6f8d92/
+cd71ed11-ae21-47fa-ae4e-0a2b945ea764/
+cf059a13-5516-4699-a23c-5e10494c1230/
+d077ec19-ad2b-45e5-beaa-fc86f0d719bf/
+d6bf37ac-846f-46e0-a78e-b65d1d702d63/
+dc6086a0-1cf0-46d8-a107-ef0e8d7fe121/
+df2ea774-88b3-4143-96e2-f8e6fcdb964c/
+e0791fce-bc86-4bf2-a80e-807ba2eae81c/
+e3714f9b-1f23-4a31-8686-eef9160cb8c3/
+e4dbf26d-d270-4477-9c5d-8d6f8b603aaa/
+e694c47f-5065-47fb-a849-b4e2ef1ae54a/
+
+sent 2,606 bytes  received 195 bytes  5,602.00 bytes/sec
+total size is 0  speedup is 0.00
+[2026-05-03 09:12:14] 同步成功!
+[2026-05-03 09:12:14] 目标目录: /root/vps/game/filebrowser/data/claude-sessions
+[2026-05-03 09:12:14] 目标目录大小: 180K
+[2026-05-03 09:12:14] 权限已设置为 755
+[2026-05-03 09:12:14] ========== 同步完成 ==========
+[2026-05-03 09:12:22] ========== 开始同步 Claude Session-Env ==========
+[2026-05-03 09:12:22] 源目录: /root/.claude/session-env
+[2026-05-03 09:12:22] 会话数量: 44
+[2026-05-03 09:12:22] 源目录大小: 180K
+[2026-05-03 09:12:22] 开始 rsync 同步...
+sending incremental file list
+
+sent 2,467 bytes  received 56 bytes  5,046.00 bytes/sec
+total size is 0  speedup is 0.00
+[2026-05-03 09:12:22] 同步成功!
+[2026-05-03 09:12:22] 目标目录: /root/vps/game/filebrowser/data/claude-sessions
+[2026-05-03 09:12:22] 目标目录大小: 180K
+[2026-05-03 09:12:22] 权限已设置为 755
+[2026-05-03 09:12:22] ========== 同步完成 ==========
